@@ -1,0 +1,16 @@
+{
+  "folder-color.pathColors": [
+    {
+      "folderPath": "css-exercises/foundations/02-class-id-selectors/",
+      "color": "foldercolorizer.green"
+    },
+    {
+      "folderPath": "css-exercises/foundations/01-css-methods/",
+      "color": "foldercolorizer.green"
+    },
+    {
+      "folderPath": "css-exercises/foundations/03-grouping-selectors/",
+      "color": "foldercolorizer.green"
+    }
+  ]
+}
